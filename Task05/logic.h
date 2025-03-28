@@ -1,0 +1,1 @@
+﻿int count_local_max(int* array, int size);
